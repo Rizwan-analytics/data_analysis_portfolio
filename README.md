@@ -4,4 +4,8 @@ This repository that I have created to showcase my analytical skill, share proje
 python, tableau, power bi, excel and SQL 
 adaptibility, critical thinking, team work 
 # About 
-
+Hi, i am Rizwan!, having a srong analytical background and holds a bachelor degree B.sc in physics, chemistry and math.
+I have been working at DLF mall of India since last two and half year where i manage day to day operations, reporting, 
+assisting guest and ensure guest has a positive experience. alongside the job, i have developed a strong interest in analytical skills
+which led me to learn new skill like python, SQL, power bi, tableau and advance excel.
+through out this project i would like to show how data help the organization to take descion
