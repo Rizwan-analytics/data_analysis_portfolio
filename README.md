@@ -9,3 +9,14 @@ I have been working at DLF mall of India since last two and half year where i ma
 assisting guest and ensure guest has a positive experience. alongside the job, i have developed a strong interest in analytical skills
 which led me to learn new skill like python, SQL, power bi, tableau and advance excel.
 through out this project i would like to show how data help the organization to take descion
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills.
+Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+
+my cv in 
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+# Table of contents 
+
+
+
