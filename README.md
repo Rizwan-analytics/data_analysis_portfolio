@@ -12,7 +12,7 @@ through out this project i would like to show how data help the organization to 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills.
 Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-my cv in 
+my cv in - https://www.canva.com/design/DAGvc_9wtoQ/qe0E-m4fQooLTsbiVy2qBw/view?utm_content=DAGvc_9wtoQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h870d2e6c79
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
