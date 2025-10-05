@@ -20,6 +20,8 @@ This is a repository to showcase skills, share projects and track my progress in
 projets portfolio......
 # python 
 Real_state_dataset - https://github.com/Rizwan-analytics/data_analysis_portfolio/blob/main/Real_state_analysis.ipynb
+bike_details_dataset - https://github.com/Rizwan-analytics/data_analysis_portfolio/blob/main/bike_details_dataset.ipynb
+
 
 
 
